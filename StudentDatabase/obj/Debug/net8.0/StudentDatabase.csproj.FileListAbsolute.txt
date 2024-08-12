@@ -1,0 +1,14 @@
+D:\GC Practice\StudentDatabase\StudentDatabase\obj\Debug\net8.0\StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+D:\GC Practice\StudentDatabase\StudentDatabase\obj\Debug\net8.0\StudentDatabase.AssemblyInfoInputs.cache
+D:\GC Practice\StudentDatabase\StudentDatabase\obj\Debug\net8.0\StudentDatabase.AssemblyInfo.cs
+D:\GC Practice\StudentDatabase\StudentDatabase\obj\Debug\net8.0\StudentDatabase.csproj.CoreCompileInputs.cache
+D:\GC Practice\StudentDatabase\StudentDatabase\bin\Debug\net8.0\StudentDatabase.exe
+D:\GC Practice\StudentDatabase\StudentDatabase\bin\Debug\net8.0\StudentDatabase.deps.json
+D:\GC Practice\StudentDatabase\StudentDatabase\bin\Debug\net8.0\StudentDatabase.runtimeconfig.json
+D:\GC Practice\StudentDatabase\StudentDatabase\bin\Debug\net8.0\StudentDatabase.dll
+D:\GC Practice\StudentDatabase\StudentDatabase\bin\Debug\net8.0\StudentDatabase.pdb
+D:\GC Practice\StudentDatabase\StudentDatabase\obj\Debug\net8.0\StudentDatabase.dll
+D:\GC Practice\StudentDatabase\StudentDatabase\obj\Debug\net8.0\refint\StudentDatabase.dll
+D:\GC Practice\StudentDatabase\StudentDatabase\obj\Debug\net8.0\StudentDatabase.pdb
+D:\GC Practice\StudentDatabase\StudentDatabase\obj\Debug\net8.0\StudentDatabase.genruntimeconfig.cache
+D:\GC Practice\StudentDatabase\StudentDatabase\obj\Debug\net8.0\ref\StudentDatabase.dll
